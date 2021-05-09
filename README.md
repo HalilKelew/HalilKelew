@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HalilKelew
-- 👀 I’m interested in carss
+- 👀 I’m interested in cars
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xllklw@gmail.com
