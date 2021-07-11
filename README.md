@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Halil Kelesh
 - 👀 I’m interested in reading books
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java  and HTML5
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me xllklw@gmail.com
 
