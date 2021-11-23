@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading books
 - 🌱 I’m currently learning HTML5 and CSS3
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hornettomcat959@gmail.com or LastOfTheGunfighters#8973
+- 📫 How to reach me hornettomcat959@gmail.com or LastOfTheGunfighters#8973 on discord
 
 <!---
 HalilKelew/HalilKelew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
