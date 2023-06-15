@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Halil Kelesh
-- 👀 I’m interested in reading books
-- 🌱 I’m currently learning HTML5 and CSS3
+- 👋 Hi, I’m
+- 👀 I’m interested in
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hornettomcat959@gmail.com or LastOfTheGunfighters#8973 on discord
+- 📫 How to reach me 
 
 <!---
 HalilKelew/HalilKelew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
